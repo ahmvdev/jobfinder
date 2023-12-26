@@ -1,5 +1,6 @@
-The root folder is the react-native frontend. Use the following commands to install dependencies/requirements :
-npm install or expo install or yarn install.
+dependencies:
+pip install django
+pip install djangorestframework
+pip install django-cors-headers
 
-Jobfinder is the django back-end use the following command to install dependencies : 
-pip install -r requirements.txt
+yarn install/npm install
