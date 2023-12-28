@@ -49,7 +49,7 @@ expo react-native run-ios``
 
 To run the Django back-end, use:
 
-python manage.py runserver
+`python manage.py runserver`
 Visit the provided URL in your web browser to access the Django admin interface and API endpoints.
 
 Troubleshooting
