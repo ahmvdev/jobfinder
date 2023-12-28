@@ -42,7 +42,7 @@ python manage.py dbshell < jobfinder.sql
 Start the React Native front-end with either of the following commands:
 
 
-``expo react-native run-android
+``expo start --web
 or
 expo react-native run-ios``
 
