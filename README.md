@@ -8,9 +8,13 @@ JobFinder is a full-stack application designed to help users find job listings e
 
 To set up the React Native front-end, navigate to the project directory and run the following command:
 
-yarn install
-# or
+`yarn install
+or
 npm install
+or 
+expo install`
+
+
 This command installs all the necessary dependencies for the front-end.
 
 ### Back-end (Django)
