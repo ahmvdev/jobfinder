@@ -30,7 +30,9 @@ If you encounter any issues or want to use a pre-populated database, you can imp
 Install Xampp
 `python manage.py migrate
 python manage.py dbshell < jobfinder.sql
-Running the Application`
+`
+
+### Running the Application
 
 
 Start the React Native front-end with either of the following commands:
