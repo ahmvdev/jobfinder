@@ -32,6 +32,8 @@ These commands install Django, Django REST framework, and CORS headers.
 If you encounter any issues or want to use a pre-populated database, you can import the provided SQL file jobfinder.sql. Ensure your database is set up and configured in your Django settings before importing. I have explained how to do this below :
 
 Install Xampp
+
+Run the following cmds:
 `python manage.py migrate
 python manage.py dbshell < jobfinder.sql
 `
