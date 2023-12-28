@@ -25,9 +25,9 @@ These commands install Django, Django REST framework, and CORS headers.
 ### Database Setup
 
 
-If you encounter any issues or want to use a pre-populated database, you can import the provided SQL file jobfinder.sql. Ensure your database is set up and configured in your Django settings before importing. Here's an example for SQLite:
+If you encounter any issues or want to use a pre-populated database, you can import the provided SQL file jobfinder.sql. Ensure your database is set up and configured in your Django settings before importing. I have explained how to do this below :
 
-
+Install Xampp
 `python manage.py migrate
 python manage.py dbshell < jobfinder.sql
 Running the Application`
@@ -37,7 +37,7 @@ Start the React Native front-end with either of the following commands:
 
 
 ``expo react-native run-android
-# or
+or
 expo react-native run-ios``
 
 
