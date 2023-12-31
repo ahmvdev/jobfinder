@@ -1,6 +1,6 @@
 # JobFinder App
 
-JobFinder is a full-stack application designed to help users find job listings efficiently. The project utilizes React Native for the front-end and Django for the back-end.
+JobFinder is an application designed to help users find job listings efficiently. The project utilizes React Native for the front-end and Django for the back-end.
 
 ## Getting Started
 
